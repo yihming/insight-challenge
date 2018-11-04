@@ -1,10 +1,3 @@
-# First, ignore all
-*
-
-# Consider .py and .sh source file
-!*.py
-!*.sh
-
-# Consider .txt and .md file
-!*.txt
-!*.md
+*~
+*.pyc
+*.csv

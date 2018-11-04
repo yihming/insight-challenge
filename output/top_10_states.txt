@@ -1,0 +1,11 @@
+TOP_STATES;NUMBER_CERTIFIED_APPLICATIONS;PERCENTAGE
+California;100902;18.1%
+Texas;58962;10.6%
+New York;47902;8.6%
+New Jersey;42857;7.7%
+Illinois;30915;5.5%
+Georgia;22068;4.0%
+Massachusetts;21325;3.8%
+Pennsylvania;20978;3.8%
+Washington;19714;3.5%
+Florida;18340;3.3%
