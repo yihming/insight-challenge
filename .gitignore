@@ -2,9 +2,9 @@
 *
 
 # Consider .py and .sh source file
-*.py
-*.sh
+!*.py
+!*.sh
 
 # Consider .txt and .md file
-*.txt
-*.md
+!*.txt
+!*.md
