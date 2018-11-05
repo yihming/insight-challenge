@@ -1,6 +1,3 @@
-# insight-challenge
-Solution to Data Engineer Bootcamp Challenge Session for Jan 2019
-
 # Problem
 
 Code in this repository is to solve the data challenge from insight bootcamp. Details of problem and dataset specification can be found [here](https://github.com/InsightDataScience/h1b_statistics).
