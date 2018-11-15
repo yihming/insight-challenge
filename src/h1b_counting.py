@@ -79,7 +79,7 @@ def h1b_count(src_path, dst_path_occupation, dst_path_state):
         obs = dict(zip(fields, values))
 
         # Ignore uncertified cases.
-        if obs[certified_fieldname] != "CERTIFIED" or obs[certified_fieldname] != "Certification":
+        if obs[certified_fieldname] != "CERTIFIED" and obs[certified_fieldname] != "Certification":
             continue
 
         # Update certified H1B case counter.
